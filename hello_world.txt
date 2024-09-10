@@ -1,1 +1,1 @@
-Hello Jane, this is m learning git on September 10, 2024!
+Hello Jane, this is me learning git on September 10, 2024!
